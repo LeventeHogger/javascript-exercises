@@ -16,6 +16,6 @@ const sumAll = function (from, to) {
   return sum;
 };
 
-console.log(sumAll(1, 69))
+console.log(sumAll(1, 4))
 // Do not edit below this line
 module.exports = sumAll;
